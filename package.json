@@ -1,0 +1,23 @@
+{
+  "name": "hatebot",
+  "version": "1.0.0",
+  "description": "hatebot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayron97/HateBot.git"
+  },
+  "author": "Alex + Roxa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sayron97/HateBot/issues"
+  },
+  "homepage": "https://github.com/sayron97/HateBot#readme",
+  "dependencies": {
+    "mongoose": "^5.13.7",
+    "node-telegram-bot-api": "^0.54.0"
+  }
+}
